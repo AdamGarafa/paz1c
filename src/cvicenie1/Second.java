@@ -8,4 +8,8 @@ public class Second {
 	public void cervena() {
 		System.out.println("Cervena metoda druhej triedy.");
 	}
+	
+	public void modra() {
+		System.out.println("Modra metoda druhej triedy.");
+	}
 }
